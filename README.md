@@ -49,3 +49,11 @@ systemctl restart nginx
 # Go to 
 https://<CHANGETHEIP>:4456
 ```
+
+## Get the admin password
+```
+cp nexus:/nexus-data/admin.password ./nexus-credenial.txt
+```
+
+=> login: amdin / passwd
+
