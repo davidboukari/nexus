@@ -57,3 +57,6 @@ cp nexus:/nexus-data/admin.password ./nexus-credenial.txt
 
 => login: amdin / passwd
 
+## Deploy python app to nexus
+* https://www.nova-technology.fr/2019/03/27/repository-python/
+
